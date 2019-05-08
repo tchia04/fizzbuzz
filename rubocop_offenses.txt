@@ -1,0 +1,5 @@
+
+1  Layout/TrailingBlankLines
+--
+1  Total
+

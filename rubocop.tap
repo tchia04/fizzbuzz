@@ -1,0 +1,10 @@
+1..7
+ok 1 - Rakefile
+ok 2 - test.rb
+ok 3 - Gemfile
+ok 4 - spec/spec_helper.rb
+ok 5 - spec2018/spec_helper.rb
+ok 6 - spec2018/fizz_buzz_spec.rb
+ok 7 - lib/fizz_buzz.rb
+
+7 files inspected, no offenses detected

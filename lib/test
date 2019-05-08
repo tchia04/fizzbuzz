@@ -1,0 +1,10 @@
+Post-install message from chromedriver-helper:
+
+  +--------------------------------------------------------------------+
+  |                                                                    |
+  |  NOTICE: chromedriver-helper is deprecated after 2019-03-31.       |
+  |                                                                    |
+  |  Please update to use the 'webdrivers' gem instead.                |
+  |  See https://github.com/flavorjones/chromedriver-helper/issues/83  |
+  |                                                                    |
+  +--------------------------------------------------------------------+

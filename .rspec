@@ -1,0 +1,8 @@
+--require spec_helper
+--default-path spec2018
+#--no-color
+--color
+#--format json
+#--format html
+#--format progress
+--format documentation
